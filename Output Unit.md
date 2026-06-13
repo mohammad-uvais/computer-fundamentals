@@ -1,0 +1,1 @@
+The output unit consists of all the output devices that are attached to the computer. It receives processed data from the CPU in binary form and converts it into a human-understandable form — such as text, images, sound, or printed pages. The common output devices are monitor, printer, projector, headphone, speaker, etc.
